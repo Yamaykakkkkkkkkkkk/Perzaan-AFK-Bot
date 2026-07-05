@@ -8,7 +8,7 @@
   "server": {
     "ip": "linuin_.aternos.me",
     "port": 64443,
-    "version": "1.26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
